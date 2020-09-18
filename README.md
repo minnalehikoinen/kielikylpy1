@@ -1,2 +1,3 @@
 # kielikylpy1
-small repositories
+small projects 
+
